@@ -36,20 +36,201 @@ This course is graded pass/fail. The grading will be based on participation duri
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| 2 | The cell cycle | &nbsp; |
-| 3 | Cell cycle control – the role of the tumor suppressor pRb in the G1/S transition | &nbsp; |
-| 4 | Cdk-regulation | &nbsp; |
-| 5 | Checkpoint control of the cell cycle | &nbsp; |
-| 6 | p53 regulation | &nbsp; |
-| 7 | The DNA damage checkpoint differs depending on cell cycle stage | &nbsp; |
-| 8 | 'To die or not to die' – the decision between repair and apoptosis | &nbsp; |
-| 9 | Structural insights into the DNA damage response | &nbsp; |
-| 10 | Field trip: visit to an MIT Biology Laboratory | Mid-term assignment due |
-| 11 | Defective DNA damage responses and cancer | &nbsp; |
-| 12 | Checkpoint-related syndromes | &nbsp; |
-| 13 | Cancer treatment based on knowledge about the DNA damage response – targeted therapeutics | &nbsp; |
-| 14 | Cancer treatment based on specific mutations that "drive" malignant growth – exploiting oncogene addiction | &nbsp; |
-| 15 | In-class presentations | Final assignments due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+The cell cycle
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Cell cycle control – the role of the tumor suppressor pRb in the G1/S transition
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Cdk-regulation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Checkpoint control of the cell cycle
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+p53 regulation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+The DNA damage checkpoint differs depending on cell cycle stage
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+'To die or not to die' – the decision between repair and apoptosis
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Structural insights into the DNA damage response
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Field trip: visit to an MIT Biology Laboratory
+{{< tdclose >}}
+{{< tdopen >}}
+Mid-term assignment due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Defective DNA damage responses and cancer
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Checkpoint-related syndromes
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Cancer treatment based on knowledge about the DNA damage response – targeted therapeutics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Cancer treatment based on specific mutations that "drive" malignant growth – exploiting oncogene addiction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+In-class presentations
+{{< tdclose >}}
+{{< tdopen >}}
+Final assignments due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
